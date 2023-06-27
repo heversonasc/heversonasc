@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
 </a>
-  <a href="https://heversonassunao@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Cutout.png" height="50" /></a>
+  <a href="mailto:heversonassunao@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Cutout.png" height="50" /></a>
 
 <a href="discord.com/heversonasc">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
